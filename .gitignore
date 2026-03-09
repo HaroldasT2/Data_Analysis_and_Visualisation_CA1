@@ -1,0 +1,22 @@
+# Virtual Environment
+venv/
+env/
+ENV/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/*
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Data files (add your data folder if needed)
+*.csv
+*.xlsx
+data/
+
+#OS files
+.DS_Store
+Thumbs.db
